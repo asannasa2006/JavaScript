@@ -1,3 +1,4 @@
 // Tipo number
+    const meunumero:3 
 
-const number:3 
+
