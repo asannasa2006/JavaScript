@@ -23,4 +23,4 @@ console.log(soma);
 
 //Tipo String  (conjuntos de caracteres)
 
-const name = "Hello World";
+const name = "Hello World"; 
