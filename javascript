@@ -18,3 +18,9 @@ const soma = primeiroNumero + segundoNumero;
 //comando de output, printar na tela, ou mostrar na tela
 
 console.log(soma);
+
+
+
+//Tipo String  (conjuntos de caracteres)
+
+const name = "Hello World";
