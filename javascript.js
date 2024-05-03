@@ -9,18 +9,18 @@ const primeiroNumero = 3;
 const segundoNumero = 2;
 
 // proibido variáveis de mesmo 
-//const meuNumero = 5; 
+// const meuNumero = 5; 
 
 //soma de duas variáveis 
 
 const soma = primeiroNumero + segundoNumero;
 
-//comando de output, printar na tela, ou mostrar na tela
+// comando de output, printar na tela, ou mostrar na tela
 
 console.log(soma);
 
 
 
-//Tipo String  (conjuntos de caracteres)
+// Tipo String  (conjuntos de caracteres)
 
 const name = "Hello World"; 
