@@ -46,3 +46,25 @@ const idade = 17;
 console.log("Nome: " + nome2);
 console.log("Sobrenome: " + sobrenome);
 console.log("Idade: " + idade);
+
+
+
+
+//tipo boolean
+//declara valor true ou false 
+
+const primeironumero1 = 5;
+const segundonumero1 = 10;
+
+/// === comparar tipo e valor 
+console.log(primeironumero1 === segundonumero1);
+
+
+//Declarar variável com valor booleano
+const ativo = false ;
+let ativo2 = true; //permite a mudança do valor da variável 
+
+const nome5 = "Anna";
+const nome7= "Beatriz";
+ 
+console.log(nome5 === nome7)
