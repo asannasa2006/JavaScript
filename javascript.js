@@ -67,24 +67,24 @@ let ativo2 = true; //permite a mudança do valor da variável
 const nome5 = "Anna";
 const nome7= "Beatriz";
  
-console.log(nome5 === nome7)
+console.log(nome5 === nome7);
 
 
 //tipo nulo
 //ausência de valor
 // é atribuido como valor de variável
 
-let input = null
+let input = null;
 
-console.log(input)
+console.log(input);
 
 // tipo underfined 
 
 let input2;
 
-console.log(input2)
+console.log(input2);
 
 //underfined e null
 
-console.log (input == input2) //true, valores iguais 
-console.log(input === input2)//false, tipos iguais 
+console.log (input == input2); //true, valores iguais 
+console.log(input === input2);//false, tipos iguais 
