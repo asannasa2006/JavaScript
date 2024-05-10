@@ -79,6 +79,9 @@ let input = null;
 console.log(input);
 
 // tipo underfined 
+//ausência de valor, mas com outro tipo
+// não é permitido o uso de CONST, pois variáveis do tipo  Const precisam ser inicializadas 
+
 
 let input2;
 
@@ -88,3 +91,4 @@ console.log(input2);
 
 console.log (input == input2); //true, valores iguais 
 console.log(input === input2);//false, tipos iguais 
+
