@@ -7,7 +7,7 @@ var comprimento = 7;
 
 // calcular a área de um quadrado/ retangulo 
 
-area = altura * comprimento;
+var area = altura * comprimento;
 //diremos que area é uma variável que guardará o resultado da variável altura multiplicado pela variável comprimento
 //não precisamos declarar a variável area, isso acontece pois o node acaba fazendo essa função
 // o var tem uma função especial que permite usá-la antes de ser declarada
@@ -25,7 +25,8 @@ console.log(area);
 let altura = 5;
 let comprimento = 7;
 
-area = altura * comprimento;
+var area = altura * comprimento;
+
 //definir a area sem declarar o let?
 
 console.log(area);
@@ -34,7 +35,7 @@ console.log(area);
 // agora vamos exigir que o código precise verificar para fazer o calculo correspondente
 //uma comparação para descobrir se o valor da let é um retângulo ou triângulo
 
-let forma = 'retângulo'
+let forma = "retângulo"
 let altura = 5;
 let comprimento = 7;
 
@@ -49,3 +50,29 @@ if (forma === 'retângulo') {
 console.log(area);
 
 
+//tipo const
+//manter a aplicação concisa
+//protege o fluxo de trabalho da aplicação
+
+const formaa = "quadrado";
+
+const altura = 5;
+
+const comprimento = 7;
+
+const area = altura * comprimento;
+
+console.log(area)
+
+
+const formaaa = 'quadrado';
+const altura = 5;
+const comprimento0 = 7;
+
+if (forma === 'quadrado') {
+    area = altura comprimento0;
+} else {
+    area = (altura comprimento0) / 2;
+}
+
+console.log(area)
