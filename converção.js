@@ -18,4 +18,4 @@ console.log(numero + numerostring)
 
 console.log( "converção explicita");
 
-let = numero(numerostring);
+let novonumero = number(numerostring);
